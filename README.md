@@ -25,58 +25,60 @@
 
 1 término: Monomio <br>
 
-5 términos: Polinomio <br>
-
-
-### 109)
-Amy puede verter una gran entrada de concreto en ocho horas. Un día su amiga Jill la ayudó y
+**109)** Amy puede verter una gran entrada de concreto en ocho horas. Un día su amiga Jill la ayudó y
 solo tomó 3.08 horas. Encuentra cuánto le tomaría a Jill hacerlo sola <br>
 
 $\dfrac{1}{8}+\dfrac{1}{J}=\dfrac{1}{3.08}$
+
 $\dfrac{1}{J}=\dfrac{1}{3.08}-\dfrac{1}{8}$
+
 $\dfrac{1}{J}=\dfrac{123}{616}$
+
 $J=\dfrac{616}{123}=\boxed{5\ \text{hrs}}$
 
 **Respuesta:** Jill tardaría **5 horas** sola.
 
-### 110) 
-Jaidee puede cavar un hoyo de 10 pies por 10 pies en cinco horas. Ted puede cavar el mismo
+ **110)** Jaidee puede cavar un hoyo de 10 pies por 10 pies en cinco horas. Ted puede cavar el mismo
 hoyo en siete horas. Si trabajaran juntos, ¿cuánto tiempo les tomaría? <br>
 
 $J=\dfrac{1}{5}$, $\quad T=\dfrac{1}{7}$ <br>
+
 $\dfrac{1}{R}=\dfrac{1}{5}+\dfrac{1}{7}=\dfrac{12}{35}$ <br>
+
 $R=\dfrac{35}{12}=\boxed{2.91\ \text{hrs}}$ <br>
 
 **Respuesta:** **35/12 h ≈ 2.92 h** (unas 2 h 55 min). <br>
 
-### 111) 
-Un avión de carga salió de Los Ángeles y voló hacia Moscú. Un avión de la Fuerza Aérea salió
+**111)** Un avión de carga salió de Los Ángeles y voló hacia Moscú. Un avión de la Fuerza Aérea salió
 cuatro horas después volando a 310 km/h en un esfuerzo por alcanzar al avión de carga. Después
 de volar durante seis horas, el avión de la Fuerza Aérea finalmente lo alcanzó. ¿Cuál era la
 velocidad promedio del avión de carga? <br>
 
 $V_1 t_1 = V_2 t_2$ <br>
+
 $V_1(10)=(310)(6)$ <br>
+
 $V_1=\dfrac{(310)(6)}{10}=\boxed{186\ \text{km/h}}$ <br>
 
 **Respuesta:** **186 km/h**.<br>
 
-### 112) 
- Un tren de carga viajó a Nueva York y de regreso. En el viaje de ida viajó a 35 km/h y en el viaje
+**112)** Un tren de carga viajó a Nueva York y de regreso. En el viaje de ida viajó a 35 km/h y en el viaje
 de regreso fue a 49 km/h. ¿Cuánto tiempo tomó el viaje de ida si el viaje de regreso tomó diez
 horas? <br>
 
 $d_{vuelta}=(49\ \text{km/h})(10\ \text{hrs})=490\ \text{km}$ <br>
+
 $t_{ida}=\dfrac{490\ \text{km}}{35\ \text{km/h}}=\boxed{14\ \text{hrs}}$ <br>
 
 **Respuesta:** el viaje de ida tomó **14 horas**. <br>
 
-### 113) 
-1 yd³ de tierra que contenía 30% de arena se mezcló con 4 yd³ de tierra que contenía 20% de
+**113)** 1 yd³ de tierra que contenía 30% de arena se mezcló con 4 yd³ de tierra que contenía 20% de
 arena. ¿Cuál es el contenido de arena de la mezcla? <br>
 
 $\text{Arena}_1 = 1 \times 0.30 = 0.30$ <br>
+
 $\text{Arena}_2 = 4 \times 0.20 = 0.80$ <br>
+
 Arena total $= 1.10$ <br>
 Yardas total $= 5$ <br>
 
@@ -84,8 +86,7 @@ $P=\left(\dfrac{1.10}{5}\right)(100)=$ 22 %
 
 **Respuesta:** **22 %** de arena. <br>
 
-### 114) 
-Para su fiesta de cumpleaños, James mezcló 7 L de ponche de frutas de la Marca A y 6 L de la
+**114)** Para su fiesta de cumpleaños, James mezcló 7 L de ponche de frutas de la Marca A y 6 L de la
 Marca B. La Marca A contiene 11% de jugo de fruta y la Marca B contiene 24% de jugo de fruta.
 ¿Qué porcentaje de la mezcla es jugo de fruta? <br>
 
